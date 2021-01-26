@@ -1,0 +1,63 @@
+body{
+    background-color: #eac297;
+}
+
+/*Header billeder */
+/*Forside header baggrundsbillede */
+#forside #header{
+    background-size: cover;
+    background-position: center;
+    background-image: url("https://images.pexels.com/photos/5410071/pexels-photo-5410071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
+/*Om Os header baggrundsbillede */
+#om-os #header{
+    background-size: cover;
+    background-position: center;
+    background-image: url("https://images.pexels.com/photos/5410115/pexels-photo-5410115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
+
+/*Kontakt header baggrundsbillede */
+#kontakt #header{
+    background-size: cover;
+    background-position: center;
+    background-image: url("https://images.pexels.com/photos/5410106/pexels-photo-5410106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
+
+/*Kontakt header baggrundsbillede */
+#blog #header{
+    background-size: cover;
+    background-position: center;
+    background-image: url("https://images.pexels.com/photos/4466584/pexels-photo-4466584.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+}
+
+/*Header overskrift*/
+
+#header h1 {
+    color: #fff;
+    font-size: 50px;
+}
+
+/*logo-billede*/
+#logo img{
+    width: 50px;
+    margin-top: -10px;
+}
+
+/*menu links*/
+#topmenu .menulist > a{
+    color: #635f42;
+}
+#topmenu .menulist > a:hover{
+    background-color: #df8c9a;  
+}
+
+/*Footer*/
+#footer{
+    background-color: #9ba69a;
+    color: #f2f2f2;
+}
+
+/*overskrifter*/
+h2, h3, h4, h5, h6 {
+    color: #4a673c;
+}
